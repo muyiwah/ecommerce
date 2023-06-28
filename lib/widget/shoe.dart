@@ -9,8 +9,8 @@ class Shoe extends StatelessWidget {
       padding: EdgeInsets.all(8),
       decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(20), color: Colors.white),
-      height: 200,
-      width: 130,
+      // height: 200,
+      // width: 130,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         crossAxisAlignment: CrossAxisAlignment.start,
